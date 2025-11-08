@@ -1,0 +1,14 @@
+✔ [752/755] Built Exercises.Problems
+ℹ [753/755] Built Exercises.Grading
+info: Exercises/Grading.lean:16:0: "Bilal Waraich"
+info: Exercises/Grading.lean:18:0: Results:
+`ex01: solved
+`ex02: solved
+`ex03: solved
+`ex04a: solved
+`ex04b: solved
+`ex04c: solved
+`ex05: solved
+`ex06: solved
+✔ [754/755] Built Exercises
+Build completed successfully.
